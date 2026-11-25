@@ -6,7 +6,7 @@ The files I'd push to GitHub first if you work in marketing. None of them are co
 |---|---|
 | [brand-voice.md](brand-voice.md) | who you're talking to, how you sound, words you never use |
 | [CLAUDE.md](CLAUDE.md) | rules Claude Code reads at the start of every session |
-| [prompts.md](prompts.md) | prompts that worked, saved so you can reuse them |
+| [.claude/skills](.claude/skills) | skills: jobs you repeat, written once as plain steps that Claude picks up by itself |
 | [hooks.md](hooks.md) | your best hooks with their views |
 | [content/posts.csv](content/posts.csv) | a log of every post and how it did |
 | [content/templates](content/templates) | your brief and report templates |
