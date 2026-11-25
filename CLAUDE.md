@@ -1,8 +1,8 @@
 # Rules for Claude
 
 - Read `brand-voice.md` before writing anything.
-- Social copy is all lowercase.
-- UK spelling.
+- Captions are all lowercase.
+- Never use the word "quietly".
 - Check `hooks.md` before writing a new hook.
-- Ask me before posting or sending anything.
+- Ask me before anything gets posted or sent.
 - Never put client names or personal details in a file.
